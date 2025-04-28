@@ -11,7 +11,6 @@ I genuinely enjoy learning new things and creating innovative projects.
 * **I plan to focus and learn about web and mobile development**
 - 🌱 I’m currently learning ...
   - Javascript
-  - React js
 - Outside tech,  I like doing sports, 🎵 listen to music, and 📖 read from time to time.
 - 📫 Reach out to me at: <a href="valentinomdo@gmail.com">valentinomdo@gmail.com</a>
 
